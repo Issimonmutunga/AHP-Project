@@ -1,44 +1,29 @@
-# AHP-Project
-ArcGIS Suitability Analysis Project
+# AHP Tool for Multi-Criteria Decision Making (MCDM)
 
-Project Overview
+## 📚 Project Overview
+This project showcases the use of the **Analytic Hierarchy Process (AHP)** as a Multi-Criteria Decision-Making (MCDM) tool within ArcGIS Desktop. It focuses on location suitability analysis by integrating spatial data, expert judgment, and weighted criteria. The project was carried out as part of my academic work in Geospatial Engineering.
 
-This repository contains a PDF report detailing a Suitability Analysis for Duma-Wheat Variety Growth in Makueni County, conducted using the Analytical Hierarchy Process (AHP) in ArcGIS Desktop. The project integrates multi-criteria decision-making methods to evaluate spatial data and identify optimal areas for wheat cultivation.
+---
 
-Key Highlights
+## 🚀 Key Features
+- Implementation of the AHP model using ArcGIS tools.
+- Weighted overlay and spatial analysis for site suitability.
+- Consistency ratio check for decision accuracy.
+- Real-world case study application.
 
-Platform: ArcGIS Desktop
+---
 
-Methodology: Multi-Criteria Decision Making (MCDM) using AHP
+## 🛠 Tools & Technologies Used
+- ArcGIS Desktop
+- ModelBuilder
+- Raster and vector data analysis
+- AHP matrix calculations (manual & tool-assisted)
 
-Study Area: Makueni County, Kenya
+---
 
-Objective: Identify the most suitable regions for Duma-wheat cultivation based on environmental and spatial factors.
+## 📄 View the Full Project PDF  
+👉 [![View PDF](https://img.shields.io/badge/View%20Full%20Project%20Report-PDF-blue)](https://drive.google.com/file/d/1gGEobO3gdNmJ5jHN61wlIZQ1PeiG9qwD/preview)
 
-Presentation: Findings were presented to the Geospatial Engineering Department, University of Nairobi.
+---
 
-File Contents
-
-Suitability_Analysis_Project.pdf – Complete project report including methodology, datasets used, analysis process, results, and conclusions.
-
-Skills Applied
-
-Spatial Analysis & Suitability Modeling
-
-Data Integration (Raster & Vector datasets)
-
-Weight assignment using AHP in ArcGIS
-
-Map design and report documentation
-
-About the Author
-
-Simon Mutunga Mavindu | Geospatial Engineer | GIS & Software Development EnthusiastEmail: besimonmutunga@gmail.comGitHub: Issimonmutunga
-
-License
-
-This project report is shared for academic and educational purposes.
-
-Contact
-
-For further inquiries or collaborations, feel free to reach out via email or connect on GitHub
+## 📁 Repository Structure
