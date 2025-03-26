@@ -1,29 +1,33 @@
-# AHP Tool for Multi-Criteria Decision Making (MCDM)
+# 🛰️ AHP Tool MCDM  
 
-## 📚 Project Overview
-This project showcases the use of the **Analytic Hierarchy Process (AHP)** as a Multi-Criteria Decision-Making (MCDM) tool within ArcGIS Desktop. It focuses on location suitability analysis by integrating spatial data, expert judgment, and weighted criteria. The project was carried out as part of my academic work in Geospatial Engineering.
-
----
-
-## 🚀 Key Features
-- Implementation of the AHP model using ArcGIS tools.
-- Weighted overlay and spatial analysis for site suitability.
-- Consistency ratio check for decision accuracy.
-- Real-world case study application.
+This repository contains the **AHP (Analytic Hierarchy Process) Tool** for Multi-Criteria Decision Making (MCDM), designed for suitability analysis using **ArcGIS**.  
 
 ---
 
-## 🛠 Tools & Technologies Used
-- ArcGIS Desktop
-- ModelBuilder
-- Raster and vector data analysis
-- AHP matrix calculations (manual & tool-assisted)
+## 📂 Project Contents  
+- `AHP Tool MCDM.pdf` — Detailed guide and methodology for using AHP in ArcGIS.  
+- `ahp-project-config.yaml` — Project metadata and author information.  
 
 ---
 
-## 📄 View the Full Project PDF  
-👉 [![View PDF](https://img.shields.io/badge/View%20Full%20Project%20Report-PDF-blue)](https://drive.google.com/file/d/1gGEobO3gdNmJ5jHN61wlIZQ1PeiG9qwD/preview)
+## ✅ Installation  
+No direct installation required. Download the PDF and follow along in ArcGIS.  
 
 ---
 
-## 📁 Repository Structure
+## ⚙️ Usage  
+1. Open **AHP Tool MCDM.pdf** to review methodology steps.  
+2. Prepare GIS data layers.  
+3. Use **ArcGIS** or **QGIS** to apply the AHP weights as demonstrated.  
+
+---
+
+## 👨‍💻 Author  
+**Simon Mutunga**  
+*Geospatial Engineer | GIS Specialist*  
+📧 Email: [besimonmutunga@gmail.com](mailto:besimonmutunga@gmail.com)  
+
+---
+
+## 📜 License  
+This project is for academic and professional demonstration purposes only.  
