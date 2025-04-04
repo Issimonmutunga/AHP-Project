@@ -1,6 +1,6 @@
 # 🛰️ AHP Tool MCDM  
 
-This repository contains the **AHP (Analytic Hierarchy Process) Tool** for Multi-Criteria Decision Making (MCDM), designed for suitability analysis using **ArcGIS**.  
+This repository contains the **AHP (Analytic Hierarchy Process) Tool** for Multi-Criteria Decision Making (MCDM), designed for suitability analysis using **ArcGIS Desktop**.  
 
 ---
 
