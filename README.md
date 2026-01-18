@@ -6,7 +6,8 @@ This repository contains the **AHP (Analytic Hierarchy Process) Tool** for Multi
 
 ## 📂 Project Contents  
 - `AHP Tool MCDM.pdf` — Detailed guide and methodology for using AHP in ArcGIS.  
-- `ahp-project-config.yaml` — Project metadata and author information.  
+- `ahp-project-config.yaml` — Project metadata and author information. 
+- ` Undergraduate Paper 2023 APA7.pdf` - Detailed guide and methodology for using AHP in ArcGIS - APA 7 format
 
 ---
 
